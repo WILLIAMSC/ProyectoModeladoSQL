@@ -1,5 +1,7 @@
-### Proyecto Final 
-### Curso: Modelado de Base de Datos y SQL
+# Proyecto Final 
+<img src="https://www.stonebranch.com/integration-hub/media/3c/64/66/1636642258/Stonebranch_SQL_Vendor_Product_Logo.svg" align= "center" alt = "SQL"  width=300/>
+
+#  Curso: Modelado de Base de Datos y SQL
 
 Este curso es parte del camino para convertirme en Data Scientist. El objetivo es introducirnos en el desarrollo y manejo de bases de datos teniendo como producto final la creación y gestión de la base de datos de una empresa. 
 
@@ -25,3 +27,8 @@ La consulta que se requiere hacer es para obtener:
 - Kilometraje
 - Nombre de la empresa que está asegurado el auto
 - Número de poliza
+
+### Tecnologías utilizadas
+
+- DBeaver
+-  PostgreSQL
